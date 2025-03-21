@@ -11,3 +11,16 @@ Test forprogrammert funksjonalitet (motor, kontroll, ikke kræsj med en gang)
 ### Steg 3 
 Få til å sende grunnleggende funksjonalitet som justerbar kraft per motor sett for å bevege opp, ned, og til sides.
 Skriv om programmet for å designe egne PID regulator (aka cruise controller).
+
+
+### 20/03/2025 Lag en plan
+Hva Gjenstår?
+* Lage koblingsskjema
+  - Se koblingsskjema på Boox
+  - All good
+* Koble opp selve Arduinoen
+  - Den tid den sorg
+* Programmere Arduino
+  - Lage PID regulator
+  - Sende signaler til pins
+  - Kommunisere med kontroller. Finn ut av transistor/reciever
