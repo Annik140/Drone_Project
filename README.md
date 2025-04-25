@@ -24,3 +24,10 @@ Hva Gjenstår?
   - Lage PID regulator
   - Sende signaler til pins
   - Kommunisere med kontroller. Finn ut av transistor/reciever
+
+
+## General info
+Channel 1 = Right stick X-axis
+Channel 2 = Right stick Y-axis
+Channel 3 = Left stick X-axis
+Channel 4 = Left stick Y-axis
